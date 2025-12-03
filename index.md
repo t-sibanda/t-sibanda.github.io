@@ -6,85 +6,54 @@ classes: wide
 
 # Welcome to My Portfolio
 
-I'm a **Results-driven Project Engineer** with 7+ years driving operational excellence across manufacturing, cloud infrastructure, and process automation. Currently scaling AWS data center operations while leveraging Lean Six Sigma Black Belt expertise in continuous improvement methodologies.
+I'm a **Results-driven Project Engineer** with 7+ years driving operational excellence across manufacturing, cloud infrastructure, and process automation. Currently scaling AWS data center operations at Amazon Web Services while leveraging Lean Six Sigma Black Belt expertise.
 
-## Featured Projects
+## What I Do
 
-### 🚀 AWS Infrastructure Scaling
-**Amazon Web Services | New Carlisle, IN**
-- Deployed 5+ server racks daily using Boost/CloudForge
-- Achieved <2-hour ticket resolution time through optimized processes
-- Mentored 17 technicians, improving team efficiency by 28%
-- Installed 10+ fiber/copper connections daily with 98% uptime
+🚀 **AWS Infrastructure Scaling** - Deploy and optimize cloud infrastructure  
+⚙️ **Process Optimization** - Lean Six Sigma implementations saving $1.5M+  
+🏗️ **Project Management** - Led $800K+ projects for Fortune 500 clients  
+📊 **Data-Driven Solutions** - 92% forecast accuracy through automation
 
-### ⚙️ Manufacturing Process Optimization
-**Techniplas LLC | Mishawaka, IN**
-- Led Value Stream Mapping implementation, reducing reject rates **60%** (from 20% to 8%)
-- Managed $800K+ tooling projects for Mercedes-Benz, delivered on-time and 5% under budget
-- Implemented Kaizen and SMED across 3 production lines
-- Achieved **45% lead time reduction** and doubled daily output (50 to 100 units)
+## Key Achievements
 
-### 🏗️ Infrastructure Project Management
-**Vivo Energy Zimbabwe | Harare**
-- Supervised $700K fuel station construction, completed **10% ahead of schedule**
-- Designed and installed fuel monitoring systems across 15+ retail locations
-- Led 3D calibrations achieving **±0.1% accuracy** for Wayne Pump systems
-
-### 📊 Financial Process Automation
-**Key Account Management**
-- Managed $2.5M+ annual revenue accounts with 95% retention rate
-- Leveraged SAP S/4HANA achieving **92% forecast accuracy**
-- Resulted in **25% order value increase** through process optimization
-
-## Technical Expertise
-
-### Cloud & Infrastructure
-- **AWS**: Data Center Operations, Server Rack Deployment
-- **Network**: ToR/Spine Switches, Fiber/Copper Cabling, SFP/QSFP Transceivers
-- **Tools**: Boost, CloudForge, SwitchBuilder
-
-### Process Improvement
-- **Lean Six Sigma Black Belt** (ICBB Certified)
-- **Methodologies**: Value Stream Mapping, Kaizen, SMED, FEA
-- **Analysis**: Thermal Analysis, Statistical Process Control
-
-### Engineering & Design
-- **CAD**: SolidWorks, AutoCAD, Minitab
-- **Manufacturing**: CNC Programming, Quality Control Systems
-- **Software**: SAP S/4HANA, Microsoft Power Automate, Python, SQL
-
-## Education & Certifications
-
-**University of Notre Dame** | MS Engineering (ESTEEM) | 2023  
-**AP Gopal Shimla University** | MTech Mechanical Engineering | 2020  
-**Chinhoyi University of Technology** | BEng Mechatronics | 2016
-
-**Certifications:**
-- Lean Six Sigma Black Belt (ICBB)
-- Occupational Health & Safety
-- SolidWorks Tech Associate
-- CPR & First Aid
-
-## Leadership & Impact
-
-### Community Leadership
-- **My Cross Community Board Member**: Secured $1.8M in funding for duplex and family-style housing construction
-- **Kingdom Life Christian Cathedral Board**: Managed $4K security system project including surveillance installation
-
-### Professional Achievements
-- **$1.5M+ cost savings** through lean manufacturing implementations
-- **Fortune 500 automotive clients** project management
-- **250K+ liters monthly processing** with 95% retention rate
+- **60% reduction** in manufacturing reject rates (20% → 8%)
+- **$1.5M+ cost savings** through lean implementations
+- **<2-hour resolution time** for AWS infrastructure tickets
+- **45% lead time reduction** in production processes
 
 ---
 
-## Let's Connect
+## Explore My Work
 
-Ready to discuss how I can help optimize your operations and drive results? 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
 
-**📧 Email**: [tsibanda@alumni.nd.edu](mailto:tsibanda@alumni.nd.edu)  
-**📱 Phone**: (574) 302-6079  
-**🔗 LinkedIn**: [linkedin.com/in/tsibanda](https://linkedin.com/in/tsibanda)  
-**📍 Location**: South Bend, IN
+<div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
+<h3>🎯 About Me</h3>
+<p>Learn about my background, education, and what drives my passion for operational excellence.</p>
+<a href="/about/" style="background: #0366d6; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Learn More</a>
+</div>
+
+<div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
+<h3>🚀 Projects</h3>
+<p>Explore detailed case studies of my AWS infrastructure, manufacturing, and automation projects.</p>
+<a href="/projects/" style="background: #0366d6; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">View Projects</a>
+</div>
+
+<div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
+<h3>💼 Experience</h3>
+<p>Detailed professional history including roles at AWS, Techniplas, and leadership positions.</p>
+<a href="/experience/" style="background: #0366d6; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">View Experience</a>
+</div>
+
+<div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
+<h3>📧 Contact</h3>
+<p>Ready to discuss how I can help optimize your operations? Let's connect!</p>
+<a href="/contact/" style="background: #28a745; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Get In Touch</a>
+</div>
+
+</div>
+
+---
 
 *"Delivering operational excellence through data-driven process optimization and innovative infrastructure solutions."*
