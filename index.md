@@ -8,50 +8,69 @@ classes: wide
 
 I'm a **Results-driven Project Engineer** with 7+ years driving operational excellence across manufacturing, cloud infrastructure, and process automation. Currently scaling AWS data center operations at Amazon Web Services while leveraging Lean Six Sigma Black Belt expertise.
 
+<div class="stat-box">
+<strong>$1.5M+</strong> in cost savings | <strong>60%</strong> reject rate reduction | <strong>7+ years</strong> experience | <strong>Fortune 500</strong> clients
+</div>
+
 ## What I Do
 
-🚀 **AWS Infrastructure Scaling** - Deploy and optimize cloud infrastructure  
-⚙️ **Process Optimization** - Lean Six Sigma implementations saving $1.5M+  
-🏗️ **Project Management** - Led $800K+ projects for Fortune 500 clients  
-📊 **Data-Driven Solutions** - 92% forecast accuracy through automation
+<div class="card-grid">
+  <div class="card">
+    <h3>🚀 AWS Infrastructure</h3>
+    <p>Deploy and optimize cloud infrastructure with <2-hour resolution times and 98%+ uptime.</p>
+  </div>
+  
+  <div class="card">
+    <h3>⚙️ Process Optimization</h3>
+    <p>Lean Six Sigma implementations delivering measurable efficiency gains and cost savings.</p>
+  </div>
+  
+  <div class="card">
+    <h3>🏗️ Project Management</h3>
+    <p>Led $800K+ projects for Fortune 500 clients with 100% on-time delivery.</p>
+  </div>
+  
+  <div class="card">
+    <h3>📊 Data-Driven Solutions</h3>
+    <p>92% forecast accuracy through automation and advanced analytics.</p>
+  </div>
+</div>
 
 ## Key Achievements
 
-- **60% reduction** in manufacturing reject rates (20% → 8%)
-- **$1.5M+ cost savings** through lean implementations
-- **<2-hour resolution time** for AWS infrastructure tickets
-- **45% lead time reduction** in production processes
+<span class="achievement">60% Reject Rate Reduction</span>
+<span class="achievement">$1.5M+ Cost Savings</span>
+<span class="achievement"><2hr Resolution Time</span>
+<span class="achievement">45% Lead Time Reduction</span>
 
 ---
 
 ## Explore My Work
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+<div class="card-grid">
+  <div class="card">
+    <h3>🎯 About Me</h3>
+    <p>Learn about my background, education, and what drives my passion for operational excellence.</p>
+    <a href="/about/" class="btn">Learn More</a>
+  </div>
 
-<div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
-<h3>🎯 About Me</h3>
-<p>Learn about my background, education, and what drives my passion for operational excellence.</p>
-<a href="/about/" style="background: #0366d6; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Learn More</a>
-</div>
+  <div class="card">
+    <h3>🚀 Projects</h3>
+    <p>Explore detailed case studies of my AWS infrastructure, manufacturing, and automation projects.</p>
+    <a href="/projects/" class="btn">View Projects</a>
+  </div>
 
-<div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
-<h3>🚀 Projects</h3>
-<p>Explore detailed case studies of my AWS infrastructure, manufacturing, and automation projects.</p>
-<a href="/projects/" style="background: #0366d6; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">View Projects</a>
-</div>
+  <div class="card">
+    <h3>💼 Experience</h3>
+    <p>Detailed professional history including roles at AWS, Techniplas, and leadership positions.</p>
+    <a href="/experience/" class="btn">View Experience</a>
+  </div>
 
-<div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
-<h3>💼 Experience</h3>
-<p>Detailed professional history including roles at AWS, Techniplas, and leadership positions.</p>
-<a href="/experience/" style="background: #0366d6; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">View Experience</a>
-</div>
-
-<div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px;">
-<h3>📧 Contact</h3>
-<p>Ready to discuss how I can help optimize your operations? Let's connect!</p>
-<a href="/contact/" style="background: #28a745; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Get In Touch</a>
-</div>
-
+  <div class="card">
+    <h3>📧 Contact</h3>
+    <p>Ready to discuss how I can help optimize your operations? Let's connect!</p>
+    <a href="/contact/" class="btn btn-success">Get In Touch</a>
+  </div>
 </div>
 
 ---
