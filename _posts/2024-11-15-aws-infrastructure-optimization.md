@@ -14,15 +14,15 @@ excerpt: "How systematic process optimization and team development enabled consi
 
 # Scaling AWS Data Center Operations: Achieving <2 Hour Resolution Times
 
-In the fast-paced world of cloud infrastructure, every minute of downtime can impact thousands of customers and millions of dollars in revenue. At AWS, maintaining exceptional service levels requires not just robust technology, but optimized processes and highly skilled teams. Here's how we achieved consistent sub-2-hour ticket resolution times while scaling operations.
+In the fast-paced world of cloud infrastructure, every minute of downtime can impact thousands of customers and millions of dollars in revenue. As part of AWS Strike Force team, maintaining exceptional service levels requires mastering complex multi-level operations from foundation safety protocols to expert-level problem-solving. Here's how systematic proficiency development and process optimization enabled consistent 1-2 day break-fix resolution times with zero re-re-runs.
 
 ## The Infrastructure Challenge
 
-AWS data centers operate at massive scale with stringent requirements:
-- **24/7 operations** with 99.99%+ uptime expectations
-- **Rapid deployment** of 5+ server racks daily
-- **Complex networking** with ToR/Spine connectivity validation
-- **Diverse skill requirements** across hardware, networking, and automation
+AWS Strike Force operations require mastery across multiple proficiency levels:
+- **Foundation Level**: Safety protocols, SharePoint/Slack workflows, Admiral device management
+- **Operational Level**: Multi-ticket prioritization, cross-team communication, handoff blocker resolution
+- **Expert Level**: Complex NARGing requests, innovative problem-solving, 1-2 day break-fix SLAs
+- **Leadership Level**: Team mentoring, process improvement, management interface
 
 ## Process Optimization Strategy
 

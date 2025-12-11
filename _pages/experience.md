@@ -8,22 +8,44 @@ author_profile: true
 # Professional Experience
 
 ## Amazon Web Services (AWS) | New Carlisle, IN
-### Infrastructure Delivery Technician
+### Infrastructure Delivery Technician - Strike Force Team
 **March 2025 – Present**
 
-Leading AWS data center operations with focus on scalable infrastructure deployment and team development.
+Leading critical infrastructure operations as part of AWS Strike Force team, managing complex multi-level technical challenges with expertise spanning foundation through leadership responsibilities.
 
-**Key Responsibilities:**
-- Deploy 5+ server racks daily using Boost/CloudForge automation platforms
-- Install and validate ToR/Spine connectivity using Switch Builder and VFL equipment
-- Mentor and train technical teams on AWS infrastructure best practices
-- Maintain 98%+ uptime across all data center operations
+**Foundation Level Operations:**
+- Complete safety certifications and demonstrate proper PPE/two-person verification protocols
+- Navigate Strike Force SharePoint, Slack, and complete daily reporting workflows
+- Use Admiral for basic device lookup and T-Corp for comprehensive ticket management
+- Write professional ticket comments and maintain accurate ticket status documentation
+- Resolve standard Late Binding tickets independently with proper documentation
 
-**Major Achievements:**
-- **<2-hour ticket resolution time** - Consistently achieved through process optimization
-- **28% efficiency improvement** - Reduced onboarding time by training 17 technicians
-- **95% pass rate** - Achieved in Strike Team specialist training programs
-- **40% failure reduction** - Implemented automated controls and monitoring systems
+**Operational Level Expertise:**
+- Prioritize multiple tickets using Unified Priority Dashboard for business impact assessment
+- Communicate effectively with ID Handoff, DCO, and DCEO teams for seamless operations
+- Research and resolve Handoff Blocker tickets that impede critical rack handoffs
+- Manage Critical Positions requiring cabling within strict 3-day windows
+- Perform quality self-checks and prevent re-re-runs through proper execution protocols
+
+**Expert Level Responsibilities:**
+- Prepare comprehensive NARGing requests with proper verification and documentation
+- Navigate complex multi-team scenarios and facilitate collaborative problem-solving
+- Consistently achieve 1-2 day turnaround on break-fix tickets with zero re-re-runs
+- Analyze complex technical issues and develop innovative solutions under time pressure
+- Build strong cross-team relationships and resolve conflicts diplomatically
+
+**Leadership Level Impact:**
+- Mentor team members and create training materials for complex procedures
+- Lead daily triage sessions and coordinate team response to high-priority situations
+- Identify process improvements and contribute to organizational best practices
+- Interface with management and represent team interests effectively
+- Maintain positive feedback from building handoff PoCs on team efficiency and quality
+
+**Key Performance Standards:**
+- **Safety**: 100% compliance with protocols and zero incidents
+- **Collaboration**: Positive partner team feedback and effective cross-functional communication
+- **Break-fix Excellence**: 1-2 day maximum turnaround with zero quality issues
+- **Quality Assurance**: Zero re-re-runs through systematic execution and validation
 
 ---
 

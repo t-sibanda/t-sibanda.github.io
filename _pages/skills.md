@@ -23,14 +23,18 @@ author_profile: true
   </div>
 
   <div class="skill-category">
-    <h4>☁️ Cloud & Infrastructure</h4>
+    <h4>☁️ AWS Infrastructure & Operations</h4>
     <ul>
-      <li>AWS Data Center Operations</li>
-      <li>Server Deployment</li>
-      <li>Network Architecture</li>
-      <li>Boost/CloudForge Platforms</li>
-      <li>Switch Builder</li>
-      <li>VFL Equipment</li>
+      <li>Strike Force Operations (Foundation to Leadership Level)</li>
+      <li>Admiral Device Lookup & Management</li>
+      <li>T-Corp Ticket Management System</li>
+      <li>Unified Priority Dashboard</li>
+      <li>NARGing Request Processing</li>
+      <li>Critical Position Management</li>
+      <li>Handoff Blocker Resolution</li>
+      <li>Late Binding Ticket Resolution</li>
+      <li>Break-Fix Operations (1-2 day SLA)</li>
+      <li>Cross-Team Collaboration (ID Handoff, DCO, DCEO)</li>
     </ul>
   </div>
 
