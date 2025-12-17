@@ -21,6 +21,41 @@ This comprehensive infrastructure project involved the complete development of a
 ![Project Charter Overview](/assets/images/hatcliff-service-station/Screenshot 2025-12-14 174319.png)
 *Project charter showing comprehensive scope and deliverables*
 
+## Construction Progress Gallery
+
+### Phase 1: Site Preparation & Excavation
+
+![Site Preparation Wide View](/assets/images/hatcliff-service-station/site-preparation-wide.jpg)
+*Wide view of site preparation and initial ground leveling*
+
+![Excavation Progress](/assets/images/hatcliff-service-station/excavation-progress.jpg)
+*Excavation progress with project signage and site organization*
+
+![Equipment Delivery](/assets/images/hatcliff-service-station/equipment-delivery.jpg)
+*Heavy equipment delivery and positioning for construction phases*
+
+### Phase 2: Structural Construction
+
+![Canopy Steel Frame Construction](/assets/images/hatcliff-service-station/canopy-construction.jpg)
+*Steel frame construction for the fuel dispensing canopy*
+
+![Canopy Construction Progress](/assets/images/hatcliff-service-station/canopy-construction-progress.jpg)
+*Advanced canopy construction with heavy equipment and site coordination*
+
+### Construction Process Videos
+
+<video width="100%" controls>
+  <source src="/assets/videos/hatcliff-service-station/VID-20250327-WA0059.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Construction process documentation showing site activities and coordination*
+
+<video width="100%" controls>
+  <source src="/assets/videos/hatcliff-service-station/compacting video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Site compacting and ground preparation procedures*
+
 ## Project Scope & Deliverables
 
 ### Major Components
@@ -41,6 +76,26 @@ This comprehensive infrastructure project involved the complete development of a
 - Coordinated installation of 20,000L capacity storage tanks
 - Ensured compliance with fuel storage regulations and safety standards
 
+![Tank Delivery and Project Management](/assets/images/hatcliff-service-station/tank-delivery-selfie.jpg)
+*Project manager overseeing tank delivery and positioning operations*
+
+![Single Tank Installation](/assets/images/hatcliff-service-station/single-tank-installation.jpg)
+*Underground fuel tank installation in reinforced concrete chamber*
+
+![Dual Tank Installation](/assets/images/hatcliff-service-station/dual-tank-installation.jpg)
+*Completed dual tank installation with secondary containment systems*
+
+![Dual Tanks Aerial View](/assets/images/hatcliff-service-station/dual-tanks-aerial.jpg)
+*Aerial perspective of completed dual tank installation in concrete chamber*
+
+### Tank Installation Process Video
+
+<video width="100%" controls>
+  <source src="/assets/videos/hatcliff-service-station/tank-installation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Detailed video showing tank positioning, installation, and safety procedures*
+
 ![Tank Layout and Technical Drawings](/assets/images/hatcliff-service-station/Screenshot 2025-12-16 185701.png)
 *Detailed technical drawings showing tank layout and cross-sections*
 
@@ -49,6 +104,12 @@ This comprehensive infrastructure project involved the complete development of a
 - **Electrical Systems:** Power distribution for pumps and lighting
 - **Drainage Design:** Comprehensive effluent management system
 - **Safety Systems:** Emergency shut-offs and leak detection
+
+![Pipe Network Installation](/assets/images/hatcliff-service-station/pipe-installation.jpg)
+*Underground pipe network installation connecting tanks to dispensers*
+
+![Forecourt Foundation Preparation](/assets/images/hatcliff-service-station/forecourt-preparation.jpg)
+*Reinforced concrete foundation preparation for forecourt hardstanding*
 
 ![Canopy and Elevation Drawings](/assets/images/hatcliff-service-station/Screenshot 2025-12-16 185757.png)
 *Canopy layout and elevation views showing pump dispenser placement*
@@ -70,13 +131,36 @@ This comprehensive infrastructure project involved the complete development of a
   - Equipment procurement and delivery
   - Regulatory compliance requirements
 
+![Safety Briefing](/assets/images/hatcliff-service-station/safety-briefing.jpg)
+*Daily safety briefings ensuring zero-incident construction environment*
+
 ### Quality Control
 - Implemented rigorous testing protocols for all systems
 - Conducted comprehensive tank integrity testing
 - Performed system calibrations and commissioning
 - Ensured all deliverables met specification requirements
 
+![Tank Inspection Team](/assets/images/hatcliff-service-station/tank-inspection-team.jpg)
+*Technical team conducting detailed tank inspection and quality verification*
+
+![Quality Inspection](/assets/images/hatcliff-service-station/quality-inspection.jpg)
+*Quality control inspections ensuring compliance with engineering specifications*
+
+![System Testing](/assets/images/hatcliff-service-station/system-testing.jpg)
+*Comprehensive system testing and calibration procedures*
+
+### System Commissioning Video
+
+<video width="100%" controls>
+  <source src="/assets/videos/hatcliff-service-station/system-commissioning.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Complete system commissioning and testing procedures demonstration*
+
 ## Key Achievements
+
+![Project Manager On-Site](/assets/images/hatcliff-service-station/project-manager-onsite.jpg)
+*Project manager conducting on-site inspection of completed tank installation*
 
 ✅ **On-Time Delivery:** Project completed within scheduled timeframe  
 ✅ **Budget Management:** Delivered within $455K budget allocation  
@@ -116,6 +200,14 @@ This project demonstrates my ability to:
 - **Deliver Business Value:** Created operational fuel service station generating revenue
 
 The completed facility serves the local community while meeting all safety, environmental, and operational requirements.
+
+## Project Completion Gallery
+
+![Final Completion](/assets/images/hatcliff-service-station/final-completion.jpg)
+*Completed fuel service station ready for operation*
+
+![Project Team](/assets/images/hatcliff-service-station/team-photo.jpg)
+*Project team celebrating successful completion and handover*
 
 ![Site Plan Overview](/assets/images/hatcliff-service-station/Screenshot 2025-12-16 185857.png)
 *Complete site plan showing final layout and infrastructure placement*
