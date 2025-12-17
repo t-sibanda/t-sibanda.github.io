@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Terrence Lawrence Sibanda"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/terrence-headshot.jpg"
   bio              : "Results-driven Project Engineer with 7+ years driving operational excellence across manufacturing, cloud infrastructure, and process automation. Currently scaling AWS data center operations while leveraging Lean Six Sigma Black Belt expertise."
   location         : "South Bend, IN"
-  email            : "tsibanda@alumni.nd.edu"
+  email            : "tlsibanda3@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tsibanda@alumni.nd.edu"
+      url: "mailto:tlsibanda3@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

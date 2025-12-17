@@ -45,22 +45,25 @@ Reduce manufacturing reject rates and improve production efficiency for Mercedes
 
 ---
 
-## 🏗️ Infrastructure Project Management
-**Vivo Energy Zimbabwe | Harare | August 2021 – December 2021**
+## 🏗️ Hatcliff Service Station Infrastructure Development
+**$455K Complete Fuel Station Construction | Harare, Zimbabwe**
 
 ### Challenge
-Complete $700K fuel station construction project while ensuring compliance and accuracy standards.
+Deliver a comprehensive fuel service station from ground-up, including excavations, underground tank farm, forecourt construction, and complete fuel distribution systems.
 
 ### Solution
-- Supervised construction timeline and resource allocation
-- Designed and installed fuel monitoring systems across 15+ locations
-- Led 3D calibrations for Wayne Pump and Tokheim systems
+- **Site Development**: Managed excavations, ground leveling, and site preparation
+- **Underground Infrastructure**: Supervised tank farm construction and storage tank installation
+- **Systems Integration**: Coordinated pipe layout, pump dispensers, and canopy installation
+- **Quality Assurance**: Conducted tank integrity testing, calibrations, and system commissioning
 
 ### Results
-- **10% ahead of schedule** completion
-- **±0.1% accuracy** achieved in calibration systems
-- **15+ retail locations** successfully equipped
-- **Zero safety incidents** throughout project duration
+- **$455K project** delivered on-time and within budget
+- **Zero safety incidents** throughout construction phase
+- **Complete infrastructure** including underground tanks, forecourt, and dispensing systems
+- **Full regulatory compliance** with environmental and safety standards
+
+[**📖 Read Full Case Study →**](/lean-six-sigma-manufacturing/)
 
 ---
 
