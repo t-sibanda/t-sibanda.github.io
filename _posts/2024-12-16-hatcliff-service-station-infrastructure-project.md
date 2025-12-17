@@ -149,15 +149,18 @@ This comprehensive infrastructure project involved the complete development of a
 ![System Testing](/assets/images/hatcliff-service-station/system-testing.jpg)
 *Comprehensive system testing and calibration procedures*
 
-### System Commissioning Video
+### Concrete and Finishing Work Video
 
 <video width="100%" controls>
-  <source src="/assets/videos/hatcliff-service-station/system-commissioning.mp4" type="video/mp4">
+  <source src="/assets/videos/hatcliff-service-station/concrete hardstanding.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-*Complete system commissioning and testing procedures demonstration*
+*Concrete hardstanding installation and finishing work for forecourt*
 
 ## Key Achievements
+
+![Project Manager Team Leadership](/assets/images/hatcliff-service-station/project-manager-team-selfie.jpg)
+*Project manager leading on-site operations with construction team in background*
 
 ![Project Manager On-Site](/assets/images/hatcliff-service-station/project-manager-onsite.jpg)
 *Project manager conducting on-site inspection of completed tank installation*
